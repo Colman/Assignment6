@@ -1,0 +1,19 @@
+﻿  cylinder.cpp
+  disk.cpp
+  main.cpp
+C:\Users\Herb Yang\Dropbox\Courses\CMPUT 411\2020\Assignment6\RaytracingCode-2018\Assignment2020\objects\src\main.cpp(53,3): warning C4551: function call missing argument list
+C:\Users\Herb Yang\Dropbox\Courses\CMPUT 411\2020\Assignment6\RaytracingCode-2018\Assignment2020\objects\src\main.cpp(108,1): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  plucker.cpp
+  poly.cpp
+C:\Users\Herb Yang\Dropbox\Courses\CMPUT 411\2020\Assignment6\RaytracingCode-2018\Assignment2020\objects\src\poly.cpp(96,21): warning C4244: '=': conversion from '_Ty' to 'int', possible loss of data
+          with
+          [
+              _Ty=double
+          ]
+  sphere.cpp
+  Generating code
+  92 of 385 functions (23.9%) were compiled, the rest were copied from previous compilation.
+    1 functions were new in current compilation
+    53 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  object.vcxproj -> C:\Users\Herb Yang\Dropbox\Courses\CMPUT 411\2020\Assignment6\RaytracingCode-2018\Assignment2020\objects\object\Release\object.exe

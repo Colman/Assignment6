@@ -1,0 +1,16 @@
+﻿  scene.cpp
+  Generating code
+  Previous IPDB and IOBJ mismatch, fall back to full compilation.
+  All 390 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+sceneLib.lib(imageviewer.obj) : warning LNK4099: PDB 'sceneLib.pdb' was not found with 'sceneLib.lib(imageviewer.obj)' or at 'C:\Users\Herb Yang\Dropbox\Courses\CMPUT 411\2020\Assignment6\RaytracingCode-2018\Assignment2020\scene\scene\Release\sceneLib.pdb'; linking object as if no debug info
+sceneLib.lib(vector3.obj) : warning LNK4099: PDB 'sceneLib.pdb' was not found with 'sceneLib.lib(vector3.obj)' or at 'C:\Users\Herb Yang\Dropbox\Courses\CMPUT 411\2020\Assignment6\RaytracingCode-2018\Assignment2020\scene\scene\Release\sceneLib.pdb'; linking object as if no debug info
+sceneLib.lib(color.obj) : warning LNK4099: PDB 'sceneLib.pdb' was not found with 'sceneLib.lib(color.obj)' or at 'C:\Users\Herb Yang\Dropbox\Courses\CMPUT 411\2020\Assignment6\RaytracingCode-2018\Assignment2020\scene\scene\Release\sceneLib.pdb'; linking object as if no debug info
+sceneLib.lib(parser.obj) : warning LNK4099: PDB 'sceneLib.pdb' was not found with 'sceneLib.lib(parser.obj)' or at 'C:\Users\Herb Yang\Dropbox\Courses\CMPUT 411\2020\Assignment6\RaytracingCode-2018\Assignment2020\scene\scene\Release\sceneLib.pdb'; linking object as if no debug info
+sceneLib.lib(camera.obj) : warning LNK4099: PDB 'sceneLib.pdb' was not found with 'sceneLib.lib(camera.obj)' or at 'C:\Users\Herb Yang\Dropbox\Courses\CMPUT 411\2020\Assignment6\RaytracingCode-2018\Assignment2020\scene\scene\Release\sceneLib.pdb'; linking object as if no debug info
+sceneLib.lib(poly.obj) : warning LNK4099: PDB 'sceneLib.pdb' was not found with 'sceneLib.lib(poly.obj)' or at 'C:\Users\Herb Yang\Dropbox\Courses\CMPUT 411\2020\Assignment6\RaytracingCode-2018\Assignment2020\scene\scene\Release\sceneLib.pdb'; linking object as if no debug info
+sceneLib.lib(disk.obj) : warning LNK4099: PDB 'sceneLib.pdb' was not found with 'sceneLib.lib(disk.obj)' or at 'C:\Users\Herb Yang\Dropbox\Courses\CMPUT 411\2020\Assignment6\RaytracingCode-2018\Assignment2020\scene\scene\Release\sceneLib.pdb'; linking object as if no debug info
+sceneLib.lib(sphere.obj) : warning LNK4099: PDB 'sceneLib.pdb' was not found with 'sceneLib.lib(sphere.obj)' or at 'C:\Users\Herb Yang\Dropbox\Courses\CMPUT 411\2020\Assignment6\RaytracingCode-2018\Assignment2020\scene\scene\Release\sceneLib.pdb'; linking object as if no debug info
+sceneLib.lib(cylinder.obj) : warning LNK4099: PDB 'sceneLib.pdb' was not found with 'sceneLib.lib(cylinder.obj)' or at 'C:\Users\Herb Yang\Dropbox\Courses\CMPUT 411\2020\Assignment6\RaytracingCode-2018\Assignment2020\scene\scene\Release\sceneLib.pdb'; linking object as if no debug info
+sceneLib.lib(plucker.obj) : warning LNK4099: PDB 'sceneLib.pdb' was not found with 'sceneLib.lib(plucker.obj)' or at 'C:\Users\Herb Yang\Dropbox\Courses\CMPUT 411\2020\Assignment6\RaytracingCode-2018\Assignment2020\scene\scene\Release\sceneLib.pdb'; linking object as if no debug info
+  scene.vcxproj -> C:\Users\Herb Yang\Dropbox\Courses\CMPUT 411\2020\Assignment6\RaytracingCode-2018\Assignment2020\scene\scene\Release\scene.exe

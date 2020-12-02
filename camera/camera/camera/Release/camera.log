@@ -1,0 +1,8 @@
+﻿  camera.cpp
+  main.cpp
+  Generating code
+  31 of 383 functions ( 8.1%) were compiled, the rest were copied from previous compilation.
+    1 functions were new in current compilation
+    14 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  camera.vcxproj -> C:\Users\Herb Yang\Dropbox\Courses\CMPUT 411\2020\Assignment6\RaytracingCode-2018\Assignment2020\camera\camera\Release\camera.exe
